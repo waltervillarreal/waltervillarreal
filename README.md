@@ -1,30 +1,9 @@
-# ¡Bienvenido!
-
-## ✨ Acerca de mi
-Trabajo con datos desde mi adolescencia, me adentré en este mundo creando servidores de juegos, los cuales no funcionaron pero me enseñaron muchas cosas y fueron mi puerta de ingreso a este hermoso mundo.
-Soy un apasionado por los datos, me encantan los desafíos y superarme día a día. Me considero una persona muy exigente conmigo misma y busco optimizar procesos lo máximo posible.
-Todo lo que pueda ser automatizado, quiero automatizarlo. 
-
-## ✨ Stack tecnológico
-- Python
-- Oracle
-- Teradata
-- Cloudera
-- Apache Airflow
-- GitHub
-- BigQuery
-
-## ✨ Contacto
-
-Podes contactarte conmigo mediante LinkedIn o bien escribiéndome a mi correo: walter.szypd@gmail.com
-
-
 # Walter Villarreal
 
 **Lead Data Engineer | Data Architect | Data Engineer**  
 Buenos Aires, Argentina  
 📧 walter.szypd@gmail.com | 📱 +54 9 11 7366 9128  
-🔗 [LinkedIn](https://www.linkedin.com/in/walter-villarreal/) | [GitHub](https://github.com/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/walter-villarreal/) | [GitHub]([https://github.com/](https://github.com/waltervillarreal/waltervillarreal))  
 
 ---
 
@@ -53,11 +32,11 @@ Profesional con más de 12 años de experiencia en **ingeniería de datos, arqui
 **Analista Desarrollador BI Sr.** | 2019 – 2020  
 - Lideré técnicamente un equipo, brindando soporte y capacitación.  
 - Integré campañas con **Mailchimp** para envío automático de correos.  
-- Reduje el tiempo de ejecución de cadenas críticas de **14 horas a 5 horas**, habilitando datos D-1 en vez de D-2.  
-- Automatización dinámica de cargas de tableros con **API SAS VIYA**, presentada en *SAS Global Forum 2020*.  
 
 ### **Gobierno de la Ciudad de Buenos Aires** – Buenos Aires, Argentina  
 **Analista Desarrollador BI SSr.** | 2017 – 2019  
+- Reduje el tiempo de ejecución de cadenas críticas de **14 horas a 5 horas**, habilitando datos D-1 en vez de D-2.  
+- Automatización dinámica de cargas de tableros con **API SAS VIYA**, presentada en *SAS Global Forum 2020*.  
 
 ### **Nexbas** – Buenos Aires, Argentina  
 **Analista Desarrollador BI Jr.** | 2015 – 2017  
@@ -71,9 +50,9 @@ Profesional con más de 12 años de experiencia en **ingeniería de datos, arqui
 
 - **Lenguajes:** SQL (Oracle, SQL Server, Teradata), SAS Base, Python  
 - **ETL / Orquestación:** SAS Data Integration, Apache Airflow, SSIS  
-- **Herramientas:** Power BI, GitHub, Jira, GCP (nivel básico)  
+- **Herramientas:** GitHub, Jira, GCP (básico), Tableau (básico)
 - **Metodologías:** Scrum, Kanban  
-- **Bases de Datos:** Oracle, SQL Server, Teradata, Hadoop  
+- **Bases de Datos:** Oracle, SQL Server, Teradata, Hadoop, BigQuery (básico)
 - **Otros:** Optimización de queries, tuning de procesos, automatización de cargas  
 
 ---
@@ -94,6 +73,6 @@ Profesional con más de 12 años de experiencia en **ingeniería de datos, arqui
 ---
 
 ## Clientes Relevantes
-Grupo Petersen, Grupo Clarín, Aerolíneas Argentinas, Banco Entre Ríos, Banco Santa Fe, Banco San Juan, AySA, DirecTV, Zurich, Hospital Alemán.
+Grupo Petersen, Banco Entre Ríos, Banco Santa Fe, Banco San Juan, Banco Santa Cruz, Grupo Clarín, Prosegur, Aerolíneas Argentinas, AySA, DirecTV, Zurich, Hospital Alemán.
 
 ---
