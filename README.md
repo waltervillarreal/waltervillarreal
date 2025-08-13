@@ -8,7 +8,7 @@ Buenos Aires, Argentina
 
 ---
 
-## Resumen
+## Sobre mi
 Profesional con más de 12 años de experiencia en **ingeniería de datos, arquitectura de datos y liderazgo de equipos**. Especializado en el diseño, optimización y automatización de pipelines y data warehouses, con foco en **procesos críticos, gobierno de datos y buenas prácticas de desarrollo**. Experiencia liderando equipos de alto rendimiento, incorporando herramientas modernas como **Apache Airflow, GitHub Actions y metodologías ágiles** para mejorar la eficiencia y confiabilidad de los procesos.
 
 ---
