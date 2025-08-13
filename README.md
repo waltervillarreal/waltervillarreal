@@ -8,12 +8,12 @@ Buenos Aires, Argentina
 
 ---
 
-## Resumen Profesional
+## Resumen
 Profesional con más de 12 años de experiencia en **ingeniería de datos, arquitectura de datos y liderazgo de equipos**. Especializado en el diseño, optimización y automatización de pipelines y data warehouses, con foco en **procesos críticos, gobierno de datos y buenas prácticas de desarrollo**. Experiencia liderando equipos de alto rendimiento, incorporando herramientas modernas como **Apache Airflow, GitHub Actions y metodologías ágiles** para mejorar la eficiencia y confiabilidad de los procesos.
 
 ---
 
-## Experiencia Profesional
+## Experiencia
 
 ### **Grupo Petersen** – Buenos Aires, Argentina  
 **Líder de Ingeniería del Dato y Big Data** | 2022 – Actualidad  
@@ -90,12 +90,12 @@ Buenos Aires, Argentina
 
 ---
 
-## Professional Summary
+## Summary
 Professional with over 12 years of experience in **data engineering, data architecture, and team leadership**. Specialized in designing, optimizing, and automating pipelines and data warehouses, with a focus on **critical processes, data governance, and development best practices**. Experienced in leading high-performance teams, integrating modern tools such as **Apache Airflow, GitHub Actions, and agile methodologies** to enhance process efficiency and reliability.
 
 ---
 
-## Professional Experience
+## Experience
 
 ### **Grupo Petersen** – Buenos Aires, Argentina  
 **Lead of Data Engineering and Big Data** | 2022 – Present  
