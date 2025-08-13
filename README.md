@@ -2,7 +2,7 @@
 
 **Lead Data Engineer | Data Architect | Data Engineer**  
 Buenos Aires, Argentina  
-📧 walter.szypd@gmail.com | 📱 +54 9 11 7366 9128  
+📧 walter.szypd@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/walter-villarreal/) | [GitHub](https://github.com/waltervillarreal/waltervillarreal)  
 🔗 [Clic here for English version](#English)
 
@@ -86,7 +86,7 @@ Grupo Petersen, Banco Entre Ríos, Banco Santa Fe, Banco San Juan, Banco Santa C
 
 **Lead Data Engineer | Data Architect | Data Engineer**  
 Buenos Aires, Argentina  
-📧 walter.szypd@gmail.com | 📱 +54 9 11 7366 9128  
+📧 walter.szypd@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/walter-villarreal/) | [GitHub](https://github.com/waltervillarreal/waltervillarreal)  
 
 ---
