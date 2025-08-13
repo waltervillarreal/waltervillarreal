@@ -16,12 +16,12 @@ Profesional con más de 12 años de experiencia en **ingeniería de datos, arqui
 
 ### **Grupo Petersen** – Buenos Aires, Argentina  
 **Líder de Ingeniería del Dato y Big Data** | 2022 – Actualidad  
-**Arquitecto de Datos** | 2021 – 2022  
-- Lideré un equipo de arquitectos de datos, definiendo **lineamientos técnicos, buenas prácticas y guía tecnológica**.  
-- Diseñé e implementé la **automatización total de cargas del DW** mediante Apache Airflow, reduciendo tiempos de ejecución y eliminando procesos manuales.  
+- Lidero un equipo de arquitectos de datos, definiendo **lineamientos técnicos, buenas prácticas y guía tecnológica**.  
 - Implementé **GitHub** como herramienta central para validación de pases a producción con *Pull Requests*, *code reviews* y validaciones automáticas en YAML.  
-- Mejoré los tiempos de carga y la calidad de datos mediante **monitoreo proactivo** y alertas automáticas.  
 - Incorporé **metodologías ágiles (Scrum, Kanban)**, gestionando tableros y flujos de trabajo en Jira.  
+**Arquitecto de Datos** | 2021 – 2022  
+- Diseñé e implementé la **automatización total de cargas del DW** mediante Apache Airflow, reduciendo tiempos de ejecución y eliminando procesos manuales.  
+- Mejoré los tiempos de carga y la calidad de datos mediante **monitoreo proactivo** y alertas automáticas.  
 
 ### **Grupo Clarín** – Buenos Aires, Argentina  
 **Analista Desarrollador BI & Big Data** | 2020 – 2021  
