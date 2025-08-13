@@ -4,7 +4,7 @@
 Buenos Aires, Argentina  
 📧 walter.szypd@gmail.com | 📱 +54 9 11 7366 9128  
 🔗 [LinkedIn](https://www.linkedin.com/in/walter-villarreal/) | [GitHub](https://github.com/waltervillarreal/waltervillarreal)  
-
+[Ingles](README.en.md)
 ---
 
 ## Resumen Profesional
